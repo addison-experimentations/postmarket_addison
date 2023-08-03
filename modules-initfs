@@ -1,0 +1,6 @@
+# Remove this comment after reading, or the file if unnecessary (CHANGEME!)
+# This file can contain a list of modules to be included in the initramfs,
+# so that they are available in early boot stages. It should have one
+# module name per line. If there are multiple kernel variants with different
+# requirements for modules into the initramfs, one modules-initfs.$variant
+# file should be created for each of them.
