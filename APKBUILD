@@ -28,7 +28,7 @@ _repository="android_kernel_motorola_msm8953"
 _commit="4039a83a7c2d0b145dbb14044867a60382d15744"
 _config="config-$_flavor.$arch"
 source="
-	$pkgname-$_commit.tar.gz::https://github.com/sounddrill31/$_repository/archive/$_commit.tar.gz
+	$pkgname-$_commit.tar.gz::https://github.com/addison-experimentations/$_repository/archive/$_commit.tar.gz
 	$_config
 	
 "
